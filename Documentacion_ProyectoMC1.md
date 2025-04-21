@@ -154,7 +154,7 @@ FIN
 
 ## Implementación del Algoritmo a Nivel de Código 
 
-
+Para lograr implementar el algoritmo a nivel de codigo se siguieron diferentes pruebas, a base de videos, recursos, tutorias y prueba y error se llego a desarollar el codigo.
 
 ---
 
